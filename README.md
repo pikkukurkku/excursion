@@ -1,5 +1,5 @@
-# excursion
-An exercise from the Learn GitHub course by Codecademy
+# Excursion
+Excursion is an off-platform project from the Learn GitHub course by Codecademy (https://www.codecademy.com/courses/learn-git/projects/f1-excursion)
 
 1. I needed to set up my project in Git
 2. Then I connected it to a repository in GitHub
